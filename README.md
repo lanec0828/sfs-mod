@@ -1,2 +1,3 @@
 # sfs-mod
-mod for sfs
+readme
+still empty
